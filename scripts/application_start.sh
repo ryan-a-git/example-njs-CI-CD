@@ -3,10 +3,10 @@
 #!/bin/bash
 
 #give permission for everything in the express-app directory
-sudo chmod -R +x /home/ec2-user/example-njs-CI-CD
+sudo chmod -R +x /home/ec2-user/314-application
 
 #navigate into our working directory where we have all our github files
-cd /home/ec2-user/example-njs-CI-CD
+cd /home/ec2-user/314-application
 
 #add npm and node to path
 #export NVM_DIR="$HOME/.nvm"	
